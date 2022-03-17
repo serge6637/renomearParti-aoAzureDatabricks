@@ -1,5 +1,7 @@
 # Write and rename a Single File in Databricks pyspark to AzureBlob
 #listar partiçoes
+
+
 d=dbutils.fs.ls('mount to blob')
 
 
