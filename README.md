@@ -1,6 +1,10 @@
 # renomearParti-aoAzureDatabricksToblob
 #listar partiçoes
 d=dbutils.fs.ls('mount to blob')
+
+
+
+
 ![image](https://user-images.githubusercontent.com/84607692/158750752-0bf916f1-04c1-45b9-a02f-05dfd96af0ec.png)
 
 
